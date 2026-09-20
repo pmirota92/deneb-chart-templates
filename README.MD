@@ -29,10 +29,10 @@ Custom visuals you can import in a few minutes. Each one comes with a preview, a
 
 | Template | Status |
 |---|:---:|
-| Template 4 | 🔜 In progress |
-| Template 5 | 🔜 In progress |
-| Template 6 | 🔜 Planned |
-| Template 7 | 🔜 Planned |
+| Radial Bar Chart with KPI Center | 🔜 In progress |
+| Waterfall Chart | 🔜 In progress |
+| Calendar Heatmap | 🔜 Planned |
+| Bump Chart | 🔜 Planned |
 
 > ⭐ **Star this repo** to get notified when new templates are released.
 
